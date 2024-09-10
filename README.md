@@ -1,1 +1,1 @@
-# QuanLyBillard
+Phần mềm quản lý quán Billiard
